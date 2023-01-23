@@ -15,7 +15,7 @@ Soy Fullstack Developer de Venezuela, actualmente viviendo en Argentina.
 
 # ⭐ Mis Proyectos:
 Hendry's Bootcamp Videogame App proyecto Individual<br/>
-![image](https://user-images.githubusercontent.com/82617651/214036332-5d15c5e2-2ca2-405e-b350-ee1f6c82eb23.png)
+![image4](https://user-images.githubusercontent.com/82617651/214036332-5d15c5e2-2ca2-405e-b350-ee1f6c82eb23.png)
 
 Henry's Bootcamp Proyecto Final<br/>
 ![Imagen4](https://user-images.githubusercontent.com/82617651/214034746-f65bff92-8a29-4e46-9f01-ac79a61489f2.png)
