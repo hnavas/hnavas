@@ -1,5 +1,9 @@
-# 💫 About Me:
-HI, soy Hendri
+
+HI 👋, Soy Hendri.
+
+Bienvenidos a mi pagina!
+
+Soy Fullstack Developer de Venezuela, actualmente viviendo en Argentina. 
 
 
 ## 🌐 Socials:
