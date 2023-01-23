@@ -3,7 +3,7 @@ HI 👋, Soy Hendri.
 
 Bienvenidos a mi pagina!
 
-Soy Fullstack Developer de Venezuela, actualmente viviendo en Argentina. 
+Soy un Desarrollador Fullstack de Venezuela, actualmente viviendo en Argentina. 
 
 
 ## 🌐 Socials:
